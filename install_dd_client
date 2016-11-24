@@ -35,13 +35,13 @@
 				<key>bundle-identifier</key>
 				<string>com.duojintest.myapp</string>
 				<key>bundle-version</key>
-				<string>1.0</string>
+				<string>1.4.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
 				<string></string>
 				<key>title</key>
-				<string>阿里支付演示</string>
+				<string>多金客户端</string>
 			</dict>
 		</dict>
 	</array>
