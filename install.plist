@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://121.196.196.251:3001/AliSDKDemo.ipa</string>
+					<string>http://121.196.196.251:3001/Goldenfraud_iOS.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -33,9 +33,9 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.duojintest.myapp</string>
+				<string>com.duoduo.myapp</string>
 				<key>bundle-version</key>
-				<string>1.0</string>
+				<string>1.4.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
