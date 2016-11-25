@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.duoduo.myapp</string>
+				<string>com.inhome.myapp</string>
 				<key>bundle-version</key>
 				<string>1.4.0</string>
 				<key>kind</key>
